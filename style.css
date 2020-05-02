@@ -1,0 +1,52 @@
+#parent{text-align: center;}
+
+#header { 
+ background-color: rgb(32, 32, 236);height: 100 px;padding-top: 15px;padding-bottom: 15px;
+}
+p{text-align: center ;font-size: large;}
+p,img {display: inline;}
+#button {text-align: right;padding: 0px 32px 0px 100px;}
+#tag {text-align: center;}
+#icon {padding: 0px 100px 0px 32px; }
+
+
+
+
+
+#belowheader {
+    
+}
+/* #sayalnilogo { padding-left: 50px;
+
+} */
+#belowheader>button{ border: none;display: inline; align-items: center;padding: 10px 30px 10px 30px; }
+#belowheader>button:hover{ background-color: darkcyan;border-radius: 50px;}
+#introhead{
+    width: 1000px;background-color: blue;color: cornsilk;font-size: larger;text-align: center;display: inline-block;
+}
+#intro>h1{ color: green;font-size: 2.5em;}
+#intro>p{ margin-left: 200px; margin-right: 200px;display: inline-block;font-size: 1.5em;text-align: left;}
+
+#main{background-color: rgb(40, 40, 197);}
+#main>div{ display: inline-block;padding: 20px 20px 20px 20px;color: honeydew;font-size: 1.5em;}
+#no{font-size: 2.5em;}
+#present>h1{ font-size: 2em;color: green;}
+#main2>div{ max-width: 100px;display: inline-block;padding: 50px 130px 50px 130px;box-shadow: 0px 8px 20px 0px grey; margin: 50px 10px 10px 10px;}
+#main3>div{display: inline-block;padding: 30px 30px 30px 30px;margin: 30px 20px 30px 30px 20px;text-align: center;}
+#main31{width: 900px;}
+#main31>div {color: rgb(27, 27, 240);border: grey;border-style: solid;box-shadow: grey 0px 2px 5px 2px;margin: 30px 80px 30px 80px;display: inline-block;padding: 10px 10px 10px 10px;}
+#main32{width: 300px;}
+#main32>h1{text-align: center; color: rgb(27, 27, 240); text-align: left;}
+#main31>h1{color: rgb(27, 27, 240);}
+#gallery>h1{color:green ; text-align: center;}
+#gallery>img{margin: 10px 10px 10px 10px;padding: 10px 20px 20px 20px;}
+#footer{background-color: rgb(24, 21, 21); }
+#footer>div { display: inline-block;padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
+}
+#contacts {
+    text-align: left;
+}
+#slideshow{ 
+    max-width: 1340px; min-width: 300px;
+}
